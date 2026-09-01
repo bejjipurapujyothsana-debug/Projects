@@ -1,9 +1,0 @@
-PyPDF2
-scikit-learn
-fastapi
-uvicorn[standard]
-sqlalchemy
-python-multipart
-pyjwt
-bcrypt
-spacy
